@@ -3,7 +3,7 @@ layout: post
 title:  "Is Anyone Out There?"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/9.jpg
+image: assets/images/Typewriter 1.avif
 ---
 Hello there,
 Welcome to my thought space. My name is Titus Barnes, and the thought behind this blog is very simple. Ever since I was a little boy, my mind has been racing with curiosity. I would often look at the things around me and wonder who in the world came up with these ideas and creations. On top of that, I have always been curious about the great question, "Why?" Questions of ontology, anthropology, philosophy, and theology - just to name a few - often plagued me, leading me to ask the wiser people around me to see if they could give me some answers. 
