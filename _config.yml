@@ -4,7 +4,7 @@ remote_theme: mediumish-theme-jekyll
 name: "Titus Barnes"
 title: "Mediumish"
 description: "Welcome to my thought space."
-logo: 'assets/images/favicon-16x16.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon-16x16.png'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
