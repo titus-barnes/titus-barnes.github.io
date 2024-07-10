@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Titus Barnes
 permalink: /about
 comments: true
 ---
