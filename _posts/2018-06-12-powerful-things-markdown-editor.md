@@ -1,104 +1,20 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+title:  "Christianity Isn't a Weekly Event"
+author: Titus Barnes
+categories:
+image: assets/images/Bible 1.avif
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+Back in February, I tore my ACL playing basketball. It was a rather unfortunate event, probably most of all because it happened while I was playing intramural basketball at a seminary. This gym has actually created a reputation for itself of being notorious for injuring people. Perhaps I should have taken a hint from the countless stories I had heard of people destroying their knees and backs while playing on this court, but here we are. Anyway, that's beside the point...
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+I was told when I went to the orthopedic urgent care that I would need to have surgery to reconstruct my right ACL. Of course, one of the first questions I asked was, "What is the recovery time post-surgery?" I was told it would be six to eight months before I could play basketball again. It has now been three months since surgery, and I have been going to PT every week, twice a week.
 
+While I was at PT the other day, I asked my therapist when I should expect to be able to play basketball again. "Seven months," she replied. I was perplexed - and discouraged. How could this be? I was told seven months from surgery is when I would be able to play basketball, and it has now been three months since surgery. If I am doing the math right (and I'm pretty good at math), that should bring us to *four* months, not *seven*! She told me that my quad strength was not where it needed to be and asked if I had been doing the exercises at home. Spoiler alert - I hadn't. I thought I was just supposed to do them on PT days. I didn't know I was supposed to be doing them every day throughout the week! "Well no wonder your quad strength isn't where it needs to be! If you're only doing strength training when you're here, then your body is not going to get stronger like it needs to."
 
-## Special formatting
+This sparked a simple, yet profound, realization in my mind and heart. The way I was treating physical therapy is how many Christians treat their walk with Christ. It is not necessarily that we forget we are Christians throughout the week, but we definitely don't invest in the spiritual disciplines like prayer, Scripture reading, and serving one another as we ought on a daily basis. Instead, whether consciously or subconsciously, we hope that what we hear and learn on Sunday will sustain us while we starve ourselves of the Scriptures and communion with God every other day of the week. No wonder so many Christians feel weak in their walk with Jesus!
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+The Scriptures call us to something more than this. In various places in the Bible, God commands us to meditate on His law day and night, to memorize His words, and to teach them to others. This does not paint for us a picture of a once-a-week event where we go to church and then don't think about God or His commands the rest of the week. That is because the Christian walk is *daily*.  It is not merely a weekly commitment, it is who we are. If we truly believe that Jesus is who He says He is and that He did what the Scriptures testify that He did, then He is not just a weekly event, He is *everything*.
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+I think about verses like 1 Peter 2:2, where Peter tells the believers to "long for the pure spiritual milk, that by it you may grow up into salvation - if indeed you have tasted that the Lord is good," and Psalm 1, which talks about the tree that is planted by streams of water, bearing fruit in its season. The application of both of these verses is that we need to be *daily* drawing from and rooting ourselves in the words of God as written in the Scriptures, which are able to make us wise for salvation through faith in Jesus Christ (2 Timothy 3:15). It is when we meditate on God's Word both day and night - Sunday and Monday - that we will see God work in our lives to produce fruit and transform us into the image of Christ. Christianity is not a weekly event. He is either *everything* to us, or He is *nothing* to us.
 
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Lord, may we see you as worthy of everything. Forgive us when we treat you as though you are just a Sunday commitment. Help us to remember that who you are and what you have done for us touches every aspect of our lives, and we owe ourselves to you. Help us to grow in maturity and in communion with you. We need you, O God, and we love you. Amen.
