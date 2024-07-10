@@ -1,18 +1,13 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "Is Anyone Out There?"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/9.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
-
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
+Hello there,
+Welcome to my thought space. My name is Titus Barnes, and the thought behind this blog is very simple. Ever since I was a little boy, my mind has been racing with curiosity. I would often look at the things around me and wonder who in the world came up with these ideas and creations. On top of that, I have always been curious about the great question, "Why?" Questions of ontology, anthropology, philosophy, and theology - just to name a few - often plagued me, leading me to ask the wiser people around me to see if they could give me some answers. 
+This curiosity has not yet left me. Instead, over time, the Lord has even amplified and diversified this investigative spirit. As I have come to learn this about myself, I realized that I don't necessarily need an audience, but I definitely need an outlet - and that is the purpose of this blog. My prayer is that these blog entries would serve whoever may come across them and perhaps prompt deeper contemplation into some of the things that often go assumed in life. 
+From the forefront, I want to be clear - I am a Christian, and I openly admit my bias as such. I believe in the one true God, who is Father, Son, and Holy Spirit. This fundamental belief and relationship with my Creator provides the very foundation for how I think about life and the questions it raises. I do not see this as a hindrance to my ability to discern truth at all. Rather, it is the means by which I am able to arrive at truth, for there is no truth apart from the One who is Himself the Truth (John 14:6). Much of this blog will address issues concerning Christianity and the church, but I may dabble in other conversations. That said, I will never and cannot separate anything I say in this blog from what I know and believe. My God is everything to me, and my hope is that this blog will reflect this truth.
+So, if you are still reading this, welcome! I am excited to begin pouring into this thought space, and I pray that this blog serves as a reminder to Christians that we can, and are commanded to, worship the Lord our God with all of our heart, soul, *mind*, and strength.
+(Cue *Twilight Zone* theme music). Hold on tight - you are about to enter... A Thinker's Thought Space...
