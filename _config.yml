@@ -1,4 +1,6 @@
 # Site
+remote_theme: mediumish-jekyll-theme
+
 name: "Mediumish"
 title: "Mediumish"
 description: "Jekyll template, Medium styled, free for bloggers."
