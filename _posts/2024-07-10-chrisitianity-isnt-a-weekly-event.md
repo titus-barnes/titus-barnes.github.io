@@ -4,6 +4,7 @@ title:  "Christianity Isn't a Weekly Event"
 author: Titus Barnes
 categories:
 image: assets/images/Bible 1.avif
+featured: false
 ---
 Back in February, I tore my ACL playing basketball. It was a rather unfortunate event, probably most of all because it happened while I was playing intramural basketball at a seminary. This gym has actually created a reputation for itself of being notorious for injuring people. Perhaps I should have taken a hint from the countless stories I had heard of people destroying their knees and backs while playing on this court, but here we are. Anyway, that's beside the point...
 

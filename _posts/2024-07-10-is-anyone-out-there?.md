@@ -4,6 +4,7 @@ title:  "Is Anyone Out There?"
 author: Titus Barnes
 categories:
 image: assets/images/Typewriter 1.avif
+featured: true
 ---
 Hello there,
 
