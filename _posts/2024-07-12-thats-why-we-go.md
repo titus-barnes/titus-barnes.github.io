@@ -4,7 +4,7 @@ title: "That's Why We Go"
 date: "2024-07-12"
 categories:
 author: Titus Barnes
-image:
+image: assets/images/Journey 1
 featured: true
 ---
 
