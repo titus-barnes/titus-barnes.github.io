@@ -5,7 +5,7 @@ date: "2024-07-12"
 categories:
 author: Titus Barnes
 image: assets/images/journey1.avif
-featured: true
+featured: false
 ---
 
 I am in a really unique season of life right now. I work at a Southern Baptist seminary as the administrative assistant in the Missions Center, which means I am constantly making connections with missionaries and denominational partners (I am a Southern Baptist and I work at a Southern Baptist institution). Sometimes through these connections with missionaries I reveal my lack of understanding when it comes to missions, or perhaps just my general naivety. Today was one of those times.
