@@ -1,8 +1,8 @@
 # Site
 remote_theme: mediumish-theme-jekyll
 
-name: "Titus Barnes"
-title: "Mediumish"
+name: "Titus J. Barnes"
+title: "Titus J. Barnes"
 description: "Welcome to my thought space."
 logo: 'assets/images/new-logo-3.png'
 favicon: 'favicon-16x16.png'
@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  Titus Barnes:
-    name: Titus Barnes
+  Titus J. Barnes:
+    name: Titus J. Barnes
     display_name: Titus Barnes
     gravatar:
     email: wowthemesnet@gmail.com
