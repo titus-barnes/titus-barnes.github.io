@@ -2,6 +2,7 @@
 layout: post
 title:  "Christianity Isn't a Weekly Event"
 author: Titus Barnes
+date: "2024-07-10"
 categories:
 image: assets/images/Bible 1.avif
 featured: false

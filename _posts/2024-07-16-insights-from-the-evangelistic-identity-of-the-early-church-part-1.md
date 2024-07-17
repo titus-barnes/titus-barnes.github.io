@@ -2,6 +2,7 @@
 layout: post
 title: "Insights from the Evangelistic Identity of the Early Church, Part 1"
 author: Titus Barnes
+date: "2024-07-16"
 categories:
 image: "assets/images/Rome 1.avif"
 featured: true

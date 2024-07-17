@@ -2,6 +2,7 @@
 layout: post
 title:  "Is Anyone Out There?"
 author: Titus Barnes
+date: "2024-07-09"
 categories:
 image: assets/images/Typewriter 1.avif
 featured: true
