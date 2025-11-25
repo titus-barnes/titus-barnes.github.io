@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Chau: Tragedy, Stupidity, or Great Commission Fidelity?"
-date: "2025-11-24" 
+date: "2025-10-31" 
 author: Titus Barnes
 featured: true
 hidden: false
