@@ -5,7 +5,7 @@ author: Titus Barnes
 date: "2024-07-09"
 categories:
 image: assets/images/Typewriter 1.avif
-featured: true
+featured: false
 ---
 Hello there,
 
