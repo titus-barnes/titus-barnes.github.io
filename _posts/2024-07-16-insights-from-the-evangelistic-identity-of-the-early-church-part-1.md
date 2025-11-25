@@ -5,7 +5,7 @@ author: Titus Barnes
 date: "2024-07-16"
 categories:
 image: "assets/images/Rome 1.avif"
-featured: true
+featured: false
 ---
 
 "Christianity is enshrined in the life, but it is proclaimed by the lips" (Green, 300). Michael Green's wise words in his book [_Evangelism in the Early Church_](https://www.amazon.com/Evangelism-Early-Church-Michael-Green/dp/0802827683/ref=sr_1_1?crid=3RDCI4BALEHVC&dib=eyJ2IjoiMSJ9.aSaBfIh7586dWzxpOnNhHxY2dCjlN552akKWqhks3exWQUvYHJvrXuS178Xl1FrJ5MOB644mXwijDwrww1ktBFFiZ0Sp_nhnzvub2DWeNI5dviL2xzxn7tpOGXzNYK64VZJqR2a1WC8YRbju1-jJ3XZ7s_JMwyIjIfgXK4-3QCgBC5BjOKjI8wLjWcviF9v6AB3wxikGQaDZdElUoKOwl0tinPHBxRnDjI0HRVvT8Ek.o9WbTFszofayhkcShV_EKKJEspIjNYvoLOw9TAHY8fQ&dib_tag=se&keywords=evangelism+in+the+early+church&qid=1720812665&s=books&sprefix=evangelism+in+the+early+church%2Cstripbooks%2C83&sr=1-1) seem to challenge the old saying, "Preach the Gospel at all times. Use words if necessary," which has been falsely attributed to St. Francis of Assisi. Evangelism for the purpose of multiplication was the fundamental mission of the early church following Jesus' commissioning of his disciples just before he ascended into heaven. Biblically, it is still the chief purpose of the church today; however, the vast majority of us, for a variety of reasons, often struggle to produce evangelistic fruit. Because of this, many churches today are working to implement systems and practices that will feed and propel their church's fervor in evangelism. But in order to begin growing in our evangelistic identity and practices, we must have some understanding of what evangelism is and what it looks like - what it looked like then and what it looks like now.
