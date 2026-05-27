@@ -5,7 +5,7 @@ author: Titus Barnes
 date: "2024-07-18"
 categories:
 image: "https://images.unsplash.com/photo-1612020840585-7bd197a81c18?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-featured: true
+featured: false
 ---
 
 Have you ever stopped to consider the peculiar behavior of the early church? Have you, like me, ever marveled at the wildfire-like spread of Christianity that we read about in the New Testament? The book of Acts provides for us an account of a church that is growing rapidly and living boldly. Thousands of people were hearing the gospel, repenting of their sins, and believing in Jesus for salvation. So what happened that so radically transformed timid people into zealous heralds of a controversial message? This seems like a good place to begin our examination of the evangelistic identity of the early church. Our goal is to, as best we can, make sense of the extraordinary—dare I say supernatural—boldness that we see in the early church's proclamation of the gospel. After all, Christians were dying for this message. And when we can hardly bring ourselves to share the gospel in a country where we flaunt freedom of speech and freedom of religion (speaking for Americans), we ought to ask ourselves, what is going on with these Christians in the early church? What drove them to share the gospel so unabashedly?
