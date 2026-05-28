@@ -3,7 +3,7 @@ layout: post
 title: "That's Why We Go"
 date: "2024-07-12"
 categories:
-author: Titus Barnes
+author: Titus J. Barnes
 image: assets/images/journey1.avif
 featured: false
 ---
