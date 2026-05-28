@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insights from the Evangelisitc Identity of the Early Church, Part 2"
-author: Titus Barnes
+author: Titus J. Barnes
 date: "2024-07-18"
 categories:
 image: "https://images.unsplash.com/photo-1612020840585-7bd197a81c18?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
