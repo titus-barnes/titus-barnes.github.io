@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Should We Be Scheduling Evangelism?"
-author: Titus Barnes
+author: Titus J. Barnes
 date: "2026-05-27"
 categories:
 image: "https://images.pexels.com/photos/1034425/pexels-photo-1034425.jpeg"
