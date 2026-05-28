@@ -7,7 +7,7 @@ description: "Welcome to my thought space."
 logo: 'assets/images/new-logo-3.png'
 favicon: 'favicon-16x16.png'
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus:
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
